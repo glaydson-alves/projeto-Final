@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    text-align: center;
+    width: 500px;
+    border: 2px solid #ccc;
+}
+
+.btn{
+    padding: 10px;
+    width: 150px;
+}
